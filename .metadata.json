@@ -1,10 +1,9 @@
 [
   {
-    "package": "NetOrigin",
+    "package": "samplingbook",
     "oncran": true
   },
   {
-    "package": "samplingbook",
-    "oncran": true
+    "package": "NetOrigin"
   }
 ]
