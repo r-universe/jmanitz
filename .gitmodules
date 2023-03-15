@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "samplingbook"]
-	path = samplingbook
-	url = https://github.com/jmanitz/samplingbook
-	shallow = true
-	registered = true
 [submodule "NetOrigin"]
 	path = NetOrigin
 	url = https://github.com/jmanitz/netorigin
+	shallow = true
+	registered = true
+[submodule "samplingbook"]
+	path = samplingbook
+	url = https://github.com/jmanitz/samplingbook
 	shallow = true
 	registered = true
