@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kangar00"]
+	path = kangar00
+	url = https://github.com/jmanitz/kangar00
+	shallow = true
+	registered = true
 [submodule "NetOrigin"]
 	path = NetOrigin
 	url = https://github.com/jmanitz/netorigin
