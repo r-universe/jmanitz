@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "kangar00"]
-	path = kangar00
-	url = https://github.com/jmanitz/kangar00
 [submodule "NetOrigin"]
 	path = NetOrigin
 	url = https://github.com/jmanitz/netorigin
+[submodule "kangar00"]
+	path = kangar00
+	url = https://github.com/jmanitz/kangar00
 [submodule "samplingbook"]
 	path = samplingbook
 	url = https://github.com/jmanitz/samplingbook
